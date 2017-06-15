@@ -1,0 +1,1 @@
+sent var web3 = new Web3(new Web3.providers.HttpProvider("https://ropsten.infura.io/[should_replaced_with_ur_own_token]"));
