@@ -1,0 +1,1 @@
+geth --networkid=3 --syncmode=fast --cache=1024 console
