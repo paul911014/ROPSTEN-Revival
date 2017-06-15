@@ -1,1 +1,4 @@
 geth --networkid=3 --syncmode=fast --cache=1024 console
+
+
+for download: https://geth.ethereum.org/downloads/
